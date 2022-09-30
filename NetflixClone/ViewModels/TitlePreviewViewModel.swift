@@ -2,7 +2,7 @@
 //  TitlePreviewViewModel.swift
 //  NetflixClone
 //
-//  Created by 沈庭鋒 on 2022/8/20.
+//  Created by stopshien on 2022/8/20.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  TitleCollectionViewCell.swift
 //  NetflixClone
 //
-//  Created by 潘立婷 on 2022/8/12.
+//  Created by stopshien on 2022/8/12.
 //
 
 import UIKit

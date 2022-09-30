@@ -2,7 +2,7 @@
 //  TitleTableViewCell.swift
 //  NetflixClone
 //
-//  Created by 潘立婷 on 2022/8/14.
+//  Created by stopshien on 2022/8/14.
 //
 
 import UIKit

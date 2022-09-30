@@ -2,7 +2,7 @@
 //  Extensions.swift
 //  NetflixClone
 //
-//  Created by 潘立婷 on 2022/8/9.
+//  Created by stopshien on 2022/8/9.
 //
 
 import Foundation

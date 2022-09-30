@@ -2,7 +2,7 @@
 //  CollectionViewTableViewCell.swift
 //  NetflixClone
 //
-//  Created by 潘立婷 on 2022/7/28.
+//  Created by stopshien on 2022/7/28.
 //
 
 // 疑問 reuseIdentifier required fatalError()-app強制退出指令

@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  NetflixClone
 //
-//  Created by 潘立婷 on 2022/7/26.
+//  Created by stopshien on 2022/7/26.
 //
 //
 import UIKit

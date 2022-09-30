@@ -2,7 +2,7 @@
 //  TitlePreviewViewController.swift
 //  NetflixClone
 //
-//  Created by 沈庭鋒 on 2022/8/20.
+//  Created by stopshien on 2022/8/20.
 //
 //製作點選影片進去之後的預覽頁面，預覽頁面的影片需要使用WebKit
 

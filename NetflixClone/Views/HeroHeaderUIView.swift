@@ -2,7 +2,7 @@
 //  HeroHeaderUIView.swift
 //  NetflixClone
 //
-//  Created by 潘立婷 on 2022/7/31.
+//  Created by stopshien on 2022/7/31.
 //
 
 import UIKit
